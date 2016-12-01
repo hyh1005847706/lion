@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btn_first_woman"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="第一大美女"/>
+
+    <Button
+        android:id="@+id/btn_second_woman"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="第二大美女"/>
+
+    <Button
+        android:id="@+id/btn_third_woman"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="第三大美女"/>
+
+    <Button
+        android:id="@+id/btn_forth_woman"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="第四大美女"/>
+
+</LinearLayout>
